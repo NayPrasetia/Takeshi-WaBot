@@ -1,11 +1,11 @@
 const fs = require("fs");
 
 const config = {
-  author: "KuroTakeshi",
+  author: "Nay",
   botNumber: "0",
   database: "takeshi-database",
   inviteCode: "CtnxNzmlxLOJqeSlxdQXTz",
-  name: -nayx-recode",
+  name: "nayx-recode",
   owner: ["0", "0"],
   prefix: ["!", ".", "#", "/"],
   sessions: "sessions",
