@@ -5,7 +5,7 @@ const config = {
   botNumber: "0",
   database: "takeshi-database",
   inviteCode: "CtnxNzmlxLOJqeSlxdQXTz",
-  name: "- Takeshi - Simple WhatsApp bot",
+  name: -nayx-recode",
   owner: ["0", "0"],
   prefix: ["!", ".", "#", "/"],
   sessions: "sessions",
@@ -30,9 +30,9 @@ const config = {
 
   settings: {
     alwaysOnline: true,
-    antiCall: true,
+    antiCall: false,
     autoBackupSw: true,
-    autoBio: true,
+    autoBio: false,
     autoFollowNewsletter: false,
     autoJoinGc: false,
     autoTyping: false,
